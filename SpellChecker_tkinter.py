@@ -64,7 +64,7 @@ class SpellCheckerApp(customtkinter.CTk):
 
 
     def check_spelling(self):
-        # Get text from the entry widget
+        # Get text from the entry widgetss
         text_to_check = self.text_input.get("1.0", tk.END)
 
         # Initialize SpellChecker
