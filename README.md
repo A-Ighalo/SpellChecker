@@ -1,4 +1,4 @@
-# Spell Checker Application
+# Accessibility SpellChecker Application
 
 # Introduction
 This Spell Checker Application is a simple, yet effective tool designed to help users identify and correct misspelled words in text. Built with Python and Tkinter, 
